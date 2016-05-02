@@ -1,0 +1,6 @@
+.DS_Store
+paket.lock
+packages/
+.paket/
+bin/
+obj/
