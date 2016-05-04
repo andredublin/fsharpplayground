@@ -55,6 +55,9 @@
     <None Include="typeinference.fsx" />
     <None Include="bubblesort.fsx" />
     <None Include="mergesort.fsx" />
+    <None Include="birthdaycake.fsx" />
+    <None Include="seqfilereader.fsx" />
+    <None Include="queryexp.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
