@@ -58,6 +58,7 @@
     <None Include="birthdaycake.fsx" />
     <None Include="seqfilereader.fsx" />
     <None Include="queryexp.fsx" />
+    <None Include="stack.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
