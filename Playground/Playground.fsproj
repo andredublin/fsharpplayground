@@ -60,6 +60,7 @@
     <None Include="queryexp.fsx" />
     <None Include="stack.fsx" />
     <None Include="btree.fsx" />
+    <None Include="expressiontree.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
