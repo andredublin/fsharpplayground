@@ -62,6 +62,7 @@
     <None Include="btree.fsx" />
     <None Include="expressiontree.fsx" />
     <None Include="queue.fsx" />
+    <None Include="mailbox.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
